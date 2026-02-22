@@ -4,7 +4,7 @@
 
 [![Version](https://img.shields.io/badge/Version-2.0.0-brightgreen)](https://github.com/neck888xyz/SimpleBankNPCEdition/releases)
 [![Minecraft](https://img.shields.io/badge/Minecraft-1.21.4-orange)](https://papermc.io)
-[![Java](https://img.shields.io/badge/Java-21-blue)](https://openjdk.org)
+[![Java](https://img.shields.io/badge/Java-21-blue)](https://www.oracle.com/java/technologies/javase/jdk21-archive-downloads.html)
 
 ## 📦 Features
 
@@ -80,3 +80,4 @@
 Made with ❤️ for the Minecraft community
 
 </div>
+

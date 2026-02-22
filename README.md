@@ -69,15 +69,14 @@
 
 - [📥 Download Latest](https://github.com/neck888xyz/SimpleBankNPCEdition/releases/latest)
 - [🐛 Report Issues](https://github.com/neck888xyz/SimpleBankNPCEdition/issues)
-- [💬 Discussions](https://github.com/neck888xyz/SimpleBankNPCEdition/discussions)
 
 ## 📄 License
 
-Copyright (c) 2025 SimpleBankNPCEdition
  - See [LICENSE](LICENSE) for details.
 
 ---
 
 <div align="center">
 Made with ❤️ for the Minecraft community
+
 </div>

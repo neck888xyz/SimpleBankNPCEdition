@@ -1,6 +1,6 @@
 # 🏦 SimpleBankNPCEdition
 
-**Complete banking system for Minecraft Paper 1.21.8**
+**Complete banking system for Minecraft Paper 1.21.4 +**
 
 [![Version](https://img.shields.io/badge/Version-2.0.0-brightgreen)](https://github.com/neck888xyz/SimpleBankNPCEdition/releases)
 [![Minecraft](https://img.shields.io/badge/Minecraft-1.21.4-orange)](https://papermc.io)
@@ -80,4 +80,5 @@
 Made with ❤️ for the Minecraft community
 
 </div>
+
 
